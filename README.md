@@ -24,4 +24,4 @@ Performed geometry optimization of Cobalt Oxide clusters (Co4O6) using Unrestric
 Modeled interatomic interactions using the Lennard-Jones potential to compute Bulk Modulus and Specific Heat.
 * Implemented NpT and NVT ensembles to simulate phase behavior under pressure.
 * Analyzed thermodynamic trajectories to derive Equations of State (Birch-Murnaghan).
-* **[View Full Project Report](./Lab5_Classical_Particle_Approach.pdf)**
+* **[View Full Project Report](./Argon_Molecular_Dynamics/Lab5_Classical_Particle_Approach.pdf)**
